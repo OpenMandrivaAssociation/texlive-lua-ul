@@ -1,6 +1,6 @@
 Name:		texlive-lua-ul
 Version:	63469
-Release:	1
+Release:	2
 Summary:	Underlining for LuaLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lua-ul
