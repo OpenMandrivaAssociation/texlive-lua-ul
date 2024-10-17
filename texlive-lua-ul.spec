@@ -3,7 +3,7 @@ Version:	70203
 Release:	1
 Summary:	Underlining for LuaLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lua-ul
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lua-ul
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lua-ul.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lua-ul.doc.r%{version}.tar.xz
